@@ -1,5 +1,7 @@
 # **Hello, my name is Roberta Helena!** 👋
 
+[GitHub Logo](Roberta Helena github.png)
+
 ## Who am I?
 * 👩‍💻 Data Scientist
 * 🕵️‍♀️ Researcher
