@@ -16,7 +16,7 @@
 * 🔮 Machine Learning
 
 ## Projects
-[Study Projucts](https://github.com/roberta-helena/projetos_estudo)
+📚[Study Projects](https://github.com/roberta-helena/projetos_estudo)📚
 
 ## Want to get to know me better?
 * [Linkedin](https://www.linkedin.com/in/robertahelena/)
