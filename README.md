@@ -1,16 +1,14 @@
-### Hi there 👋
+# **Hello, my name is Roberta Helena!**
 
-<!--
-**roberta-helena/roberta-helena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
+👩‍💻 Data Scientist
+🕵️‍♀️ Researcher
+👩‍🏫 Master in Strategic Studies
+👩‍🎓 Bachelor in International Relations
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+🐍 Python
+📊 Power BI
+🧮 Data Analysis
+📈 Data Visualization
+🔮 Machine Learning
