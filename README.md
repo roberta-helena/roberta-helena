@@ -12,3 +12,7 @@
 * 🧮 Data Analysis
 * 📈 Data Visualization
 * 🔮 Machine Learning
+
+## Want to get to know me better?
+* [Linkedin] (https://www.linkedin.com/in/robertahelena/)
+* [Lattes] (http://lattes.cnpq.br/5305138501953499)
