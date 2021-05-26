@@ -1,4 +1,4 @@
-# **Hello, my name is Roberta Helena!**
+# **Hello, my name is Roberta Helena!** 👋
 
 ## Who am I?
 * 👩‍💻 Data Scientist
