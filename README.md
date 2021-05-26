@@ -3,8 +3,8 @@
 ## Who am I?
 * 👩‍💻 Data Scientist
 * 🕵️‍♀️ Researcher
-* 👩‍🏫 Master in Strategic Studies
-* 👩‍🎓 Bachelor in International Relations
+* 👩‍🏫 Master in Strategic Studies - Universidade Federal Fluminense (UFF)
+* 👩‍🎓 Bachelor in International Relations - Universidade Federal Fluminense (UFF)
 
 ## Skills
 * 🐍 Python
