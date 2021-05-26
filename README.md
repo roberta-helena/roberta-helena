@@ -15,6 +15,9 @@
 * 📈 Data Visualization
 * 🔮 Machine Learning
 
+## Projects
+[Study Projucts](https://github.com/roberta-helena/projetos_estudo)
+
 ## Want to get to know me better?
 * [Linkedin](https://www.linkedin.com/in/robertahelena/)
 * [Lattes](http://lattes.cnpq.br/5305138501953499)
