@@ -1,12 +1,12 @@
-# **Hello, my name is Roberta Helena!** 👋
+# **Olá, eu sou a Roberta Helena!** 👋
 
 ![GitHub Logo](Github.png)
 
-## Who am I?
-* 👩‍💻 Data Scientist
-* 🕵️‍♀️ Researcher
-* 👩‍🏫 Master in Strategic Studies - Universidade Federal Fluminense (UFF)
-* 👩‍🎓 Bachelor in International Relations - Universidade Federal Fluminense (UFF)
+## Quem sou eu?
+* 👩‍💻 Cientista de Dados
+* 🕵️‍♀️ Pesquisadora
+* 👩‍🏫 Mestre em Estudos Estratégicos da Defesa e da Segurança - Universidade Federal Fluminense (UFF)
+* 👩‍🎓 Bacharel em Relações Internacionais - Universidade Federal Fluminense (UFF)
 
 ## Skills
 * 🐍 Python
@@ -15,9 +15,9 @@
 * 📈 Data Visualization
 * 🔮 Machine Learning
 
-## Projects
-📚 [Study Projects](https://github.com/roberta-helena/projetos_estudo) 📚
+## Projetos
+📚 [Projetos de Estudo](https://github.com/roberta-helena/projetos_estudo) 📚
 
-## Want to get to know me better?
+## Quer me conhecer melhor?
 * [Linkedin](https://www.linkedin.com/in/robertahelena/)
 * [Lattes](http://lattes.cnpq.br/5305138501953499)
