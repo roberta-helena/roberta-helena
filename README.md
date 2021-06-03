@@ -1,6 +1,6 @@
 # **Olá, eu sou a Roberta Helena!** 👋
 
-![GitHub Logo](Github.png)
+![GitHub Logo](github-br.png)
 
 ## Quem sou eu?
 * 👩‍💻 Cientista de Dados
